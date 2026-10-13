@@ -2,6 +2,8 @@ Full Stack Product Management Application
 
 A full-stack web application for managing products using React, Express, and PostgreSQL. This project demonstrates how to build a REST API and connect a frontend to a backend with a real relational database.
 
+
+
 Features
 
 Create new products
@@ -15,6 +17,8 @@ Toggle product availability
 Delete products
 
 Persist data in PostgreSQL
+
+
 
 Tech Stack
 
@@ -37,6 +41,8 @@ Testing: Supertest
 Logging: Morgan
 
 Cross-Origin Requests: CORS
+
+
 
 Key Learning Objectives
 
